@@ -1,0 +1,21 @@
+
+2024-11-01 15:43:55	[Info]	log test 9
+2024-11-01 15:43:55	[Info]	log test 0
+2024-11-01 15:43:55	[Info]	log test 1
+2024-11-01 15:43:55	[Info]	log test 2
+2024-11-01 15:43:55	[Info]	log test 3
+2024-11-01 15:43:55	[Info]	log test 4
+2024-11-01 15:43:55	[Info]	log test 5
+2024-11-01 15:43:55	[Info]	log test 6
+2024-11-01 15:43:55	[Info]	log test 7
+2024-11-01 15:43:55	[Info]	log test 8
+2024-11-01 16:57:42	[Info]	Hello from thread 7 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 2 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 0 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 1 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 3 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 8 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 4 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 5 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 6 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp
+2024-11-01 16:57:42	[Info]	Hello from thread 9 _LINE_ :11	C:\Users\fanzehao\source\repos\testmysql\testmysql\main.cpp

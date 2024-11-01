@@ -1,0 +1,7 @@
+x64/
+.vs/
+testmysql.sln
+simple_logger/x64/
+simple_logger/testmysql.vcxproj
+simple_logger/testmysql.vcxproj.filters
+simple_logger/testmysql.vcxproj.user
